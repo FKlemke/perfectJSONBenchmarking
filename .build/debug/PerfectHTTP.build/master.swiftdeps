@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "aa92748bad1fa5418320ec2c21129670"
+build_time: [556292441, 144824000]
+inputs:
+  "/Users/Fklemke/swiftbenchmarkproject/perfectJSONBenchmarking/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPFilter.swift": [556292398, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/perfectJSONBenchmarking/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPHeaders.swift": [556292398, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/perfectJSONBenchmarking/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPMethod.swift": [556292398, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/perfectJSONBenchmarking/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPRequest.swift": [556292398, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/perfectJSONBenchmarking/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPResponse.swift": [556292398, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/perfectJSONBenchmarking/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/MimeReader.swift": [556292398, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/perfectJSONBenchmarking/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/MimeType.swift": [556292398, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/perfectJSONBenchmarking/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/Routing.swift": [556292398, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/perfectJSONBenchmarking/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/StaticFileHandler.swift": [556292398, 0]

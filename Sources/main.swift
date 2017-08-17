@@ -26,8 +26,16 @@ func getJSON() -> [String: Int] {
 }
 
 
+routes.add(method: .get, uri: "/plaintextPerfect", handler: {
+    request, response in
+    response.setHeader(.contentType, value: "text/html")
+    response.appendBody(string: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.")
+    
+    response.completed()
+})
+
 // Adding a route to handle the GET people list URL
-routes.add(method: .get, uri: "/json", handler: {
+routes.add(method: .get, uri: "/jsonPerfect", handler: {
     request, response in
 
     let rndJSON = getJSON()
@@ -42,8 +50,7 @@ routes.add(method: .get, uri: "/json", handler: {
     }
     // Signalling that the request is completed
     response.completed()
-}
-)
+})
 
 // Add the routes to the server.
 server.addRoutes(routes)

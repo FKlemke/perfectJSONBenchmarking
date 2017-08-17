@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Fklemke/swiftbenchmarkproject/perfectJSONBenchmarking/.build/debug/perfectJSONBenchmarking.build/master.swiftdeps"
+  },
+  "/Users/Fklemke/swiftbenchmarkproject/perfectJSONBenchmarking/Sources/main.swift": {
+    "dependencies": "/Users/Fklemke/swiftbenchmarkproject/perfectJSONBenchmarking/.build/debug/perfectJSONBenchmarking.build/main.d",
+    "object": "/Users/Fklemke/swiftbenchmarkproject/perfectJSONBenchmarking/.build/debug/perfectJSONBenchmarking.build/main.swift.o",
+    "swiftmodule": "/Users/Fklemke/swiftbenchmarkproject/perfectJSONBenchmarking/.build/debug/perfectJSONBenchmarking.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/Fklemke/swiftbenchmarkproject/perfectJSONBenchmarking/.build/debug/perfectJSONBenchmarking.build/main.swiftdeps"
+  }
+}
