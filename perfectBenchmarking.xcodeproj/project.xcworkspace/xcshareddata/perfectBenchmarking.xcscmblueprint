@@ -1,0 +1,72 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "69B0975E7EC8449D3DC206570BE287C4763F1C79",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DCD994A20FFF69E73D7DE28EB512BBF004934554" : 9223372036854775807,
+    "9197B75B1BC29921D6E3B1CCDC2B258350009F3A" : 9223372036854775807,
+    "E2306DAE0C98D148736A05084B6FAB44F03B4909" : 9223372036854775807,
+    "69B0975E7EC8449D3DC206570BE287C4763F1C79" : 9223372036854775807,
+    "C4127C9B9C8FDF608B532AD72407863CE2797629" : 9223372036854775807,
+    "3A9E353610E9DEA2F53A36817210B4F5861AD261" : 9223372036854775807,
+    "615FD99B652E80AC2E813EEEE7964BA10A9886D5" : 9223372036854775807,
+    "6F1260245BD69EFA9A05D126763C86280510C6E1" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "00B1D956-0125-4416-A524-9D54A7A2ED86",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DCD994A20FFF69E73D7DE28EB512BBF004934554" : "perfectBenchmarking\/.build\/checkouts\/Perfect-COpenSSL.git--4744624199947727386\/",
+    "9197B75B1BC29921D6E3B1CCDC2B258350009F3A" : "perfectBenchmarking\/.build\/checkouts\/Perfect-HTTP.git--6392294032632002019\/",
+    "E2306DAE0C98D148736A05084B6FAB44F03B4909" : "perfectBenchmarking\/.build\/checkouts\/PerfectLib.git-3712999737848873669\/",
+    "69B0975E7EC8449D3DC206570BE287C4763F1C79" : "perfectBenchmarking\/",
+    "C4127C9B9C8FDF608B532AD72407863CE2797629" : "perfectBenchmarking\/.build\/checkouts\/Perfect-HTTPServer.git--6671958091389663080\/",
+    "3A9E353610E9DEA2F53A36817210B4F5861AD261" : "",
+    "615FD99B652E80AC2E813EEEE7964BA10A9886D5" : "perfectBenchmarking\/.build\/checkouts\/Perfect-Thread.git-6541237758607105655\/",
+    "6F1260245BD69EFA9A05D126763C86280510C6E1" : "perfectBenchmarking\/.build\/checkouts\/Perfect-Net.git-3268755499654502659\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "perfectBenchmarking",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "perfectBenchmarking.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/FKlemke\/ServerSideSwiftBenchmarking.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3A9E353610E9DEA2F53A36817210B4F5861AD261"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Fklemke\/swiftbenchmarkproject\/perfectBenchmarking\/.build\/repositories\/Perfect-Thread.git-6541237758607105655",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "615FD99B652E80AC2E813EEEE7964BA10A9886D5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/felix030\/perfectBenchmarking.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "69B0975E7EC8449D3DC206570BE287C4763F1C79"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Fklemke\/swiftbenchmarkproject\/perfectBenchmarking\/.build\/repositories\/Perfect-Net.git-3268755499654502659",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6F1260245BD69EFA9A05D126763C86280510C6E1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Fklemke\/swiftbenchmarkproject\/perfectBenchmarking\/.build\/repositories\/Perfect-HTTP.git--6392294032632002019",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9197B75B1BC29921D6E3B1CCDC2B258350009F3A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Fklemke\/swiftbenchmarkproject\/perfectBenchmarking\/.build\/repositories\/Perfect-HTTPServer.git--6671958091389663080",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C4127C9B9C8FDF608B532AD72407863CE2797629"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Fklemke\/swiftbenchmarkproject\/perfectBenchmarking\/.build\/repositories\/Perfect-COpenSSL.git--4744624199947727386",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DCD994A20FFF69E73D7DE28EB512BBF004934554"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Fklemke\/swiftbenchmarkproject\/perfectBenchmarking\/.build\/repositories\/PerfectLib.git-3712999737848873669",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E2306DAE0C98D148736A05084B6FAB44F03B4909"
+    }
+  ]
+}

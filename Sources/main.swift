@@ -6,6 +6,7 @@
     import Darwin
 #endif
 
+
 import PerfectLib
 import PerfectHTTP
 import PerfectHTTPServer
@@ -37,7 +38,6 @@ routes.add(method: .get, uri: "/plaintextPerfect", handler: {
 // Adding a route to handle the GET people list URL
 routes.add(method: .get, uri: "/jsonPerfect", handler: {
     request, response in
-
     let rndJSON = getJSON()
     
     do{
@@ -51,6 +51,28 @@ routes.add(method: .get, uri: "/jsonPerfect", handler: {
     // Signalling that the request is completed
     response.completed()
 })
+
+routes.add(method: .get, uri: "/jsonShortPerfect", handler: {
+    request, response in
+    
+    let jsonDic: [String: Int] = [
+        "Vapor":941,
+        "Kitura":1337,
+        "Perfect":42]
+    
+    do{
+        // Setting the response content type explicitly to application/json
+        response.setHeader(.contentType, value: "axwpplication/json; charset=utf-8")
+        try response.setBody(json: jsonDic)
+    }catch {
+        // Setting the body response to the JSON list generated
+        response.appendBody(string: "JSON Failed")
+    }
+    // Signalling that the request is completed
+    response.completed()
+})
+
+
 
 // Add the routes to the server.
 server.addRoutes(routes)

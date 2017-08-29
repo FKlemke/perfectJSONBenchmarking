@@ -1,5 +1,5 @@
 version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
 options: "27099344deb4d202836be1ff73c4fa5a"
-build_time: [557343238, 169051000]
+build_time: [557349427, 691650000]
 inputs:
-  "/Users/Fklemke/swiftbenchmarkproject/perfectBenchmarking/Sources/main.swift": [556294407, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/perfectBenchmarking/Sources/main.swift": [557347591, 0]
