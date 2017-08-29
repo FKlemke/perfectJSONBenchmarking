@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Fklemke/swiftbenchmarkproject/perfectBenchmarking/.build/debug/perfectBenchmarking.build/master.swiftdeps"
+  },
+  "/Users/Fklemke/swiftbenchmarkproject/perfectBenchmarking/Sources/main.swift": {
+    "dependencies": "/Users/Fklemke/swiftbenchmarkproject/perfectBenchmarking/.build/debug/perfectBenchmarking.build/main.d",
+    "object": "/Users/Fklemke/swiftbenchmarkproject/perfectBenchmarking/.build/debug/perfectBenchmarking.build/main.swift.o",
+    "swiftmodule": "/Users/Fklemke/swiftbenchmarkproject/perfectBenchmarking/.build/debug/perfectBenchmarking.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/Fklemke/swiftbenchmarkproject/perfectBenchmarking/.build/debug/perfectBenchmarking.build/main.swiftdeps"
+  }
+}

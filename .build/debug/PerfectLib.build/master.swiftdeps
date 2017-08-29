@@ -1,14 +1,14 @@
 version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
-options: "20c03ed01c9ccfa45947a4eacd8cc99d"
-build_time: [556292425, 745947000]
+options: "136fa79005f64e2c85602ba6e9a3e043"
+build_time: [557343224, 600250000]
 inputs:
-  "/Users/Fklemke/swiftbenchmarkproject/perfectJSONBenchmarking/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/Bytes.swift": [556292399, 0]
-  "/Users/Fklemke/swiftbenchmarkproject/perfectJSONBenchmarking/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/Dir.swift": [556292399, 0]
-  "/Users/Fklemke/swiftbenchmarkproject/perfectJSONBenchmarking/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/File.swift": [556292399, 0]
-  "/Users/Fklemke/swiftbenchmarkproject/perfectJSONBenchmarking/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/JSONConvertible.swift": [556292399, 0]
-  "/Users/Fklemke/swiftbenchmarkproject/perfectJSONBenchmarking/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/Log.swift": [556292399, 0]
-  "/Users/Fklemke/swiftbenchmarkproject/perfectJSONBenchmarking/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/PerfectError.swift": [556292399, 0]
-  "/Users/Fklemke/swiftbenchmarkproject/perfectJSONBenchmarking/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/PerfectServer.swift": [556292399, 0]
-  "/Users/Fklemke/swiftbenchmarkproject/perfectJSONBenchmarking/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/SwiftCompatibility.swift": [556292399, 0]
-  "/Users/Fklemke/swiftbenchmarkproject/perfectJSONBenchmarking/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/SysProcess.swift": [556292399, 0]
-  "/Users/Fklemke/swiftbenchmarkproject/perfectJSONBenchmarking/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/Utilities.swift": [556292399, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/perfectBenchmarking/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/Bytes.swift": [557343194, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/perfectBenchmarking/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/Dir.swift": [557343194, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/perfectBenchmarking/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/File.swift": [557343194, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/perfectBenchmarking/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/JSONConvertible.swift": [557343194, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/perfectBenchmarking/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/Log.swift": [557343194, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/perfectBenchmarking/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/PerfectError.swift": [557343194, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/perfectBenchmarking/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/PerfectServer.swift": [557343194, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/perfectBenchmarking/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/SwiftCompatibility.swift": [557343194, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/perfectBenchmarking/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/SysProcess.swift": [557343194, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/perfectBenchmarking/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/Utilities.swift": [557343194, 0]

@@ -1,5 +1,0 @@
-version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
-options: "7da257b19bd0497418244f9434c70f48"
-build_time: [556294487, 266491000]
-inputs:
-  "/Users/Fklemke/swiftbenchmarkproject/perfectJSONBenchmarking/Sources/main.swift": [556294407, 0]
